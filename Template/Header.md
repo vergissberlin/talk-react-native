@@ -1,1 +1,3 @@
-[🇩🇪  Deutsch](../README.md) | [🇬🇧  English](README.en.md) | [🇫🇷  Français](README.fr.md) 
+[🇩🇪  Deutsch](../README.html) | 
+[🇬🇧  English](README.en.html) | 
+[🇫🇷  Français](README.fr.html)
