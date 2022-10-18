@@ -92,4 +92,4 @@ Der Auftragnehmer (zum  Beispiel Entwickler) benötigen dann eine eigene Apple I
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-{% include_relative ../Template/Footer.md %}
+{% include_relative Template/Footer.md %}
