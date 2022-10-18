@@ -15,7 +15,7 @@ Ce référentiel contient les présentations et des exemples de projets pour la 
 **📚 Table des matières**
 
 -   [💬 Parler : React Native](#-talk-react-native)
-    -   [📚 1. Présentation de la technologie](#-1-technologie-überblick)
+    -   [📚 1. Technologie-Überblick](#-1-technologie-überblick)
     -   [🛠 2. Mise en place de l'environnement de développement](#-2-einrichtung-der-entwicklungsumgebung)
     -   [📱 3. Réagissez Native avec Expo](#-3-react-native-mit-expo)
     -   [🧪 4. Tests](#-4-testing)
@@ -50,7 +50,7 @@ Cette partie de la série de discussions présente le thème du déploiement dan
 
 -   [Réagir natif](https://reactnative.dev/)
 -   [Expo](https://expo.io/)
--   [Est](https://jestjs.io/)
+-   [Jest](https://jestjs.io/)
 -   [Voie rapide](https://fastlane.tools/)
 -   [Bibliothèque de test native React](https://callstack.github.io/react-native-testing-library/)
 -   [Bibliothèque de tests natifs React - Jest](https://callstack.github.io/react-native-testing-library/docs/api-jest)
