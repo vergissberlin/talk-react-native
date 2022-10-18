@@ -1,4 +1,4 @@
-{% include_relative Template/Header.md %}
+{% include_relative .github/templates/header.md %}
 
 ## 💬 Parler : React Native
 
@@ -61,4 +61,4 @@ Cette partie de la série de discussions présente le thème du déploiement dan
 -   [Développeur Google Play](https://play.google.com/apps/publish/)
 -   [Programme pour les développeurs Google Play](https://play.google.com/apps/publish/signup/)
 
-{% include_relative Template/Footer.md %}
+{% include_relative .github/templates/footer.md %}
