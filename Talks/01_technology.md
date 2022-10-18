@@ -91,5 +91,7 @@ Der Auftragnehmer (zum  Beispiel Entwickler) benötigen dann eine eigene Apple I
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
-
-
+- [React Native Paper](https://callstack.github.io/react-native-paper/)
+- [React Navigation](https://reactnavigation.org/)
+- [React Native Elements](https://reactnativeelements.com/)
+- [React Native Community](https://reactnative.dev/docs/getting-started)
