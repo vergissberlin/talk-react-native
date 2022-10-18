@@ -59,6 +59,4 @@ In diesem Teil der Talkreihe wird das Thema Deployment in React Native vorgestel
 - [Google Play Developer](https://play.google.com/apps/publish/)
 - [Google Play Developer Program](https://play.google.com/apps/publish/signup/)
 
-----
-
-[MIT](LICENSE)
+{% include Template/Footer.md %}
