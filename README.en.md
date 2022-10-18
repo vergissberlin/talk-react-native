@@ -1,4 +1,4 @@
-# 💬 Talk: React Native
+## 💬 Talk: React Native
 
 ```text
 Dauer:      5h (Gesamtdauer)
@@ -24,29 +24,29 @@ This repository contains the presentations and sample projects for the React Nat
 
 * * *
 
-## 📚 1. Technology Overview
+### 📚 1. Technology Overview
 
 This part of the talk series provides an overview of the React Native technology. It explains how React Native works and what advantages it has over other technologies. It also explains how React Native works with Expo.
 
 **To the talk:**[Technology Overview ↗](./Talks/Talk_01_technology.md)
 
-## 🛠 2. Setting up the development environment
+### 🛠 2. Setting up the development environment
 
 In this part of the talk series, the development environment for React Native is set up. We look at how we can develop React Native with Expo. It also explains how we can develop React Native without Expo.
 
-## 📱 3. React Native mit Expo
+### 📱 3. React Native mit Expo
 
 This part of the talk series introduces React Native with Expo. We look at how we can develop React Native with Expo. It also explains how we can test React Native with Expo.
 
-## 🧪 4. Testing
+### 🧪 4. Testing
 
 This part of the talk series introduces the topic of testing in React Native. We look at how we can test React Native with Jest. It also explains how we can test React Native with Detox.
 
-## 🚀 5. Deployment
+### 🚀 5. Deployment
 
 This part of the talk series introduces the topic of deployment in React Native. We're looking at how to publish React Native with Expo. It also explains how we can release React Native with Fastlane.
 
-## 📚 Links
+### 📚 Links
 
 -   [React Native](https://reactnative.dev/)
 -   [Expo](https://expo.io/)
