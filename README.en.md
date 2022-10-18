@@ -1,3 +1,5 @@
+{% include_relative Template/Header.md %}
+
 ## 💬 Talk: React Native
 
 ```text
@@ -8,8 +10,6 @@ Sprache:    Deutsch
 Author:     André Lademann <vergissberlin@gmail.com>
 ```
 
-{% include_relative Template/Header.md %}
-
 This repository contains the presentations and sample projects for the React Native talk series. The talk series is an introduction to developing mobile apps with React Native. The talk series is designed for JavaScript developers who already have experience with JavaScript and React. The talk series is divided into 5 parts:
 
 * * *
@@ -18,7 +18,7 @@ This repository contains the presentations and sample projects for the React Nat
 
 -   [💬 Talk: React Native](#-talk-react-native)
     -   [📚 1. Technology Overview](#-1-technologie-überblick)
-    -   [🛠 2. Einrichtung der Entwicklungsumgebung](#-2-einrichtung-der-entwicklungsumgebung)
+    -   [🛠 2. Setting up the development environment](#-2-einrichtung-der-entwicklungsumgebung)
     -   [📱 3. React Native mit Expo](#-3-react-native-mit-expo)
     -   [🧪 4. Testing](#-4-testing)
     -   [🚀 5. Deployment](#-5-deployment)
