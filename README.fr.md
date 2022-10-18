@@ -28,7 +28,7 @@ Ce référentiel contient les présentations et des exemples de projets pour la 
 
 Cette partie de la série de conférences donne un aperçu de la technologie React Native. Il explique le fonctionnement de React Native et ses avantages par rapport aux autres technologies. Il explique également comment React Native fonctionne avec Expo.
 
-**Zum Talk:**[Présentation de la technologie ↗](./Talks/01_technology.md)
+**A la conversation :**[Présentation de la technologie ↗](./Talks/01_technology.md)
 
 ### 🛠 2. Mise en place de l'environnement de développement
 
@@ -50,7 +50,7 @@ Cette partie de la série de discussions présente le thème du déploiement dan
 
 -   [Réagir natif](https://reactnative.dev/)
 -   [Expo](https://expo.io/)
--   [Jest](https://jestjs.io/)
+-   [Est](https://jestjs.io/)
 -   [Voie rapide](https://fastlane.tools/)
 -   [Bibliothèque de test native React](https://callstack.github.io/react-native-testing-library/)
 -   [Bibliothèque de tests natifs React - Jest](https://callstack.github.io/react-native-testing-library/docs/api-jest)
