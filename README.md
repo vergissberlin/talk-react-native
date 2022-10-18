@@ -59,8 +59,4 @@ In diesem Teil der Talkreihe wird das Thema Deployment in React Native vorgestel
 - [Google Play Developer](https://play.google.com/apps/publish/)
 - [Google Play Developer Program](https://play.google.com/apps/publish/signup/)
 
----
-
-Lizenz [MIT](LICENSE) | Kontakt [@vergissberlin](https://twitter.com/vergissberlin) | [Blog](https://blog.andrelademann.de) | [Impressum](https://github.com/vergissberlin) | [Datenschutz](https://andrelademann.de/datenschutz) | [GitHub](https://github.com/vergissberlin)
-
-{% include_relative Talks/01_technology.md %}
+{% include_relative Template/Footer.md %}
