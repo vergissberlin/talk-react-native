@@ -8,7 +8,7 @@ Sprache:    Deutsch
 Author:     André Lademann <vergissberlin@gmail.com>
 ```
 
-This repository contains the presentations and sample projects for the React Native talk series. The talk series is an introduction to developing mobile apps with React Native. The talk series is designed for JavaScript developers who already have experience with JavaScript and React. The talk series is divided into 5 parts:
+Dieses Repository enthält die Präsentationen und die Beispielprojekte für die Talkreihe "React Native". Die Talkreihe ist eine Einführung in die Entwicklung von mobilen Apps mit React Native. Die Talkreihe ist für JavaScript Entwickler konzipiert, die bereits Erfahrung mit JavaScript und React haben. Die Talkreihe ist in 5 Teile aufgeteilt:
 
 * * *
 
