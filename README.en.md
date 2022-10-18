@@ -30,7 +30,7 @@ This repository contains the presentations and sample projects for the React Nat
 
 This part of the talk series provides an overview of the React Native technology. It explains how React Native works and what advantages it has over other technologies. It also explains how React Native works with Expo.
 
-**To the talk:**[Technologie-Überblick ↗ ](./Talks/01_technology.md)
+**To the talk:**[Technology Overview ↗](./Talks/01_technology.md)
 
 ### 🛠 2. Setting up the development environment
 
