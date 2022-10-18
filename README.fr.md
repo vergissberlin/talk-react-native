@@ -59,6 +59,4 @@ Cette partie de la série de discussions présente le thème du déploiement dan
 -   [Développeur Google Play](https://play.google.com/apps/publish/)
 -   [Programme pour les développeurs Google Play](https://play.google.com/apps/publish/signup/)
 
-* * *
-
-[AVEC](LICENSE)
+{% incluent Template/Footer.md %}
