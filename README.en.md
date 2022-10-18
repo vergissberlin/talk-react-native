@@ -44,7 +44,7 @@ This part of the talk series introduces the topic of testing in React Native. We
 
 ## 🚀 5. Deployment
 
-In diesem Teil der Talkreihe wird das Thema Deployment in React Native vorgestellt. Wir schauen uns an, wie wir React Native mit Expo veröffentlichen können. Außerdem wird erklärt, wie wir React Native mit Fastlane veröffentlichen können.
+This part of the talk series introduces the topic of deployment in React Native. We're looking at how to publish React Native with Expo. It also explains how we can release React Native with Fastlane.
 
 ## 📚 Links
 
