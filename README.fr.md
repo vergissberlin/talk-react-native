@@ -8,13 +8,15 @@ Sprache:    Deutsch
 Author:     André Lademann <vergissberlin@gmail.com>
 ```
 
+{% include_relative Template/Header.md %}
+
 Ce référentiel contient les présentations et des exemples de projets pour la série de discussions React Native. La série de discussions est une introduction au développement d'applications mobiles avec React Native. La série de discussions est conçue pour les développeurs JavaScript qui ont déjà de l'expérience avec JavaScript et React. La série de conférences est divisée en 5 parties :
 
 * * *
 
-**📚 Table des matières**
+**📚 Inhaltsverzeichnis**
 
--   [💬 Parler : React Native](#-talk-react-native)
+-   [💬 Talk: React Native](#-talk-react-native)
     -   [📚 1. Présentation de la technologie](#-1-technologie-überblick)
     -   [🛠 2. Mise en place de l'environnement de développement](#-2-einrichtung-der-entwicklungsumgebung)
     -   [📱 3. Réagissez Native avec Expo](#-3-react-native-mit-expo)
@@ -57,6 +59,6 @@ Cette partie de la série de discussions présente le thème du déploiement dan
 -   [Développeur Apple](https://developer.apple.com/)
 -   [Programme pour développeurs Apple](https://developer.apple.com/programs/)
 -   [Développeur Google Play](https://play.google.com/apps/publish/)
--   [Programme pour les développeurs Google Play](https://play.google.com/apps/publish/signup/)
+-   [Google Play Developer Program](https://play.google.com/apps/publish/signup/)
 
 {% include_relative Template/Footer.md %}
