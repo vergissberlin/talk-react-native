@@ -28,7 +28,7 @@ Ce référentiel contient les présentations et des exemples de projets pour la 
 
 Cette partie de la série de conférences donne un aperçu de la technologie React Native. Il explique le fonctionnement de React Native et ses avantages par rapport aux autres technologies. Il explique également comment React Native fonctionne avec Expo.
 
-**A la conversation :**[Présentation de la technologie ↗](./Talks/Talk_01_technology.md)
+**A la conversation :**[Présentation de la technologie ↗](./Talks/01_technology.md)
 
 ### 🛠 2. Mise en place de l'environnement de développement
 
@@ -40,9 +40,9 @@ Cette partie de la série de discussions présente React Native avec Expo. Nous 
 
 ### 🧪 4. Tests
 
-In diesem Teil der Talkreihe wird das Thema Testing in React Native vorgestellt. Wir schauen uns an, wie wir React Native mit Jest testen können. Außerdem wird erklärt, wie wir React Native mit Detox testen können.
+Cette partie de la série de conférences présente le sujet des tests dans React Native. Nous examinons comment tester React Native avec Jest. Il explique également comment nous pouvons tester React Native avec Detox.
 
-### 🚀 5. Déploiement
+### 🚀 5. Deployment
 
 Cette partie de la série de discussions présente le thème du déploiement dans React Native. Nous examinons comment publier React Native avec Expo. Il explique également comment nous pouvons publier React Native avec Fastlane.
 
@@ -59,6 +59,6 @@ Cette partie de la série de discussions présente le thème du déploiement dan
 -   [Développeur Google Play](https://play.google.com/apps/publish/)
 -   [Programme pour les développeurs Google Play](https://play.google.com/apps/publish/signup/)
 
-{% incluent Template/Footer.md %}
+* * *
 
-{% include_relative Template/Footer.md %}
+Licence[AVEC](LICENSE)| Contact[@vergissberlin](https://twitter.com/vergissberlin)\|[Blog](https://blog.andrelademann.de)\|[imprimer](https://github.com/vergissberlin)\|[intimité](https://andrelademann.de/datenschutz)\|[GitHub](https://github.com/vergissberlin)
