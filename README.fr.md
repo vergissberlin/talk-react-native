@@ -42,7 +42,7 @@ Cette partie de la série de discussions présente React Native avec Expo. Nous 
 
 Cette partie de la série de conférences présente le sujet des tests dans React Native. Nous examinons comment tester React Native avec Jest. Il explique également comment nous pouvons tester React Native avec Detox.
 
-### 🚀 5. Deployment
+### 🚀 5. Déploiement
 
 Cette partie de la série de discussions présente le thème du déploiement dans React Native. Nous examinons comment publier React Native avec Expo. Il explique également comment nous pouvons publier React Native avec Fastlane.
 
@@ -62,3 +62,5 @@ Cette partie de la série de discussions présente le thème du déploiement dan
 * * *
 
 Licence[AVEC](LICENSE)| Contact[@vergissberlin](https://twitter.com/vergissberlin)\|[Blog](https://blog.andrelademann.de)\|[imprimer](https://github.com/vergissberlin)\|[intimité](https://andrelademann.de/datenschutz)\|[GitHub](https://github.com/vergissberlin)
+
+{% include_relative Talks/01_technology.md %}
