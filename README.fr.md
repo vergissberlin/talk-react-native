@@ -40,7 +40,7 @@ Cette partie de la série de discussions présente React Native avec Expo. Nous 
 
 ### 🧪 4. Tests
 
-Cette partie de la série de conférences présente le sujet des tests dans React Native. Nous examinons comment tester React Native avec Jest. Il explique également comment nous pouvons tester React Native avec Detox.
+In diesem Teil der Talkreihe wird das Thema Testing in React Native vorgestellt. Wir schauen uns an, wie wir React Native mit Jest testen können. Außerdem wird erklärt, wie wir React Native mit Detox testen können.
 
 ### 🚀 5. Déploiement
 
@@ -60,3 +60,5 @@ Cette partie de la série de discussions présente le thème du déploiement dan
 -   [Programme pour les développeurs Google Play](https://play.google.com/apps/publish/signup/)
 
 {% incluent Template/Footer.md %}
+
+{% include_relative Template/Footer.md %}
