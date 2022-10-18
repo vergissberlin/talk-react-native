@@ -10,7 +10,6 @@ Sprache:    Deutsch
 Author:     André Lademann <vergissberlin@gmail.com>
 ```
 
-
 Dieses Repository enthält die Präsentationen und die Beispielprojekte für die Talkreihe "React Native". Die Talkreihe ist eine Einführung in die Entwicklung von mobilen Apps mit React Native. Die Talkreihe ist für JavaScript Entwickler konzipiert, die bereits Erfahrung mit JavaScript und React haben. Die Talkreihe ist in 5 Teile aufgeteilt:
 
 ---
