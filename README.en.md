@@ -28,7 +28,7 @@ This repository contains the presentations and sample projects for the React Nat
 
 This part of the talk series provides an overview of the React Native technology. It explains how React Native works and what advantages it has over other technologies. It also explains how React Native works with Expo.
 
-**To the talk:**[Technology Overview ↗](./Talks/Talk_01_technology.md)
+**To the talk:**[Technology Overview ↗](./Talks/01_technology.md)
 
 ### 🛠 2. Setting up the development environment
 
@@ -59,6 +59,6 @@ This part of the talk series introduces the topic of deployment in React Native.
 -   [Google Play Developer](https://play.google.com/apps/publish/)
 -   [Google Play Developer Program](https://play.google.com/apps/publish/signup/)
 
-{% include Template/Footer.md %}
+* * *
 
-{% include_relative Template/Footer.md %}
+license[WITH](LICENSE)| Contact[@vergissberlin](https://twitter.com/vergissberlin)\|[Blog](https://blog.andrelademann.de)\|[imprint](https://github.com/vergissberlin)\|[Datenschutz](https://andrelademann.de/datenschutz)\|[GitHub](https://github.com/vergissberlin)
