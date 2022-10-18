@@ -28,7 +28,7 @@ Dieses Repository enthält die Präsentationen und die Beispielprojekte für die
 
 In diesem Teil der Talkreihe wird ein Überblick über die Technologie React Native gegeben. Es wird erklärt, wie React Native funktioniert und welche Vorteile es gegenüber anderen Technologien hat. Außerdem wird erklärt, wie React Native mit Expo funktioniert.
 
-**Zum Talk:** [Technologie-Überblick ↗ ](./Talks/Talk_01_technology.md)
+**Zum Talk:** [Technologie-Überblick ↗ ](./Talks/01_technology.md)
 
 ### 🛠 2. Einrichtung der Entwicklungsumgebung
 
@@ -59,6 +59,6 @@ In diesem Teil der Talkreihe wird das Thema Deployment in React Native vorgestel
 - [Google Play Developer](https://play.google.com/apps/publish/)
 - [Google Play Developer Program](https://play.google.com/apps/publish/signup/)
 
-{% include Template/Footer.md %}
+---
 
-{% include_relative Template/Footer.md %}
+Lizenz [MIT](LICENSE) | Kontakt [@vergissberlin](https://twitter.com/vergissberlin) | [Blog](https://blog.andrelademann.de) | [Impressum](https://github.com/vergissberlin) | [Datenschutz](https://andrelademann.de/datenschutz) | [GitHub](https://github.com/vergissberlin)
