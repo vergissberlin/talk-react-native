@@ -1,4 +1,4 @@
-{% include_relative Template/Header.md %}
+{% include_relative .github/templates/header.md %}
 
 ## 💬 Talk: React Native
 
@@ -30,7 +30,7 @@ This repository contains the presentations and sample projects for the React Nat
 
 This part of the talk series provides an overview of the React Native technology. It explains how React Native works and what advantages it has over other technologies. It also explains how React Native works with Expo.
 
-**To the talk:**[Technology Overview ↗](./Talks/01_technology.md)
+**To the talk:**[Technologie-Überblick ↗ ](./Talks/01_technology.md)
 
 ### 🛠 2. Setting up the development environment
 
@@ -38,7 +38,7 @@ In this part of the talk series, the development environment for React Native is
 
 ### 📱 3. React Native mit Expo
 
-In diesem Teil der Talkreihe wird React Native mit Expo vorgestellt. Wir schauen uns an, wie wir React Native mit Expo entwickeln können. Außerdem wird erklärt, wie wir React Native mit Expo testen können.
+This part of the talk series introduces React Native with Expo. We look at how we can develop React Native with Expo. It also explains how we can test React Native with Expo.
 
 ### 🧪 4. Testing
 
@@ -61,4 +61,4 @@ This part of the talk series introduces the topic of deployment in React Native.
 -   [Google Play Developer](https://play.google.com/apps/publish/)
 -   [Google Play Developer Program](https://play.google.com/apps/publish/signup/)
 
-{% include_relative Template/Footer.md %}
+{% include_relative .github/templates/footer.md %}
