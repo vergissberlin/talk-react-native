@@ -59,8 +59,4 @@ Cette partie de la série de discussions présente le thème du déploiement dan
 -   [Développeur Google Play](https://play.google.com/apps/publish/)
 -   [Programme pour les développeurs Google Play](https://play.google.com/apps/publish/signup/)
 
-* * *
-
-Licence[AVEC](LICENSE)| Contact[@vergissberlin](https://twitter.com/vergissberlin)\|[Blog](https://blog.andrelademann.de)\|[imprimer](https://github.com/vergissberlin)\|[intimité](https://andrelademann.de/datenschutz)\|[GitHub](https://github.com/vergissberlin)
-
-{% include_relative Talks/01_technology.md %}
+{% include_relative Template/Footer.md %}
