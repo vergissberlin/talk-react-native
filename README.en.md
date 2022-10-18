@@ -36,7 +36,7 @@ In this part of the talk series, the development environment for React Native is
 
 ### 📱 3. React Native mit Expo
 
-This part of the talk series introduces React Native with Expo. We look at how we can develop React Native with Expo. It also explains how we can test React Native with Expo.
+In diesem Teil der Talkreihe wird React Native mit Expo vorgestellt. Wir schauen uns an, wie wir React Native mit Expo entwickeln können. Außerdem wird erklärt, wie wir React Native mit Expo testen können.
 
 ### 🧪 4. Testing
 
