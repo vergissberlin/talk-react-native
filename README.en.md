@@ -10,15 +10,15 @@ Sprache:    Deutsch
 Author:     André Lademann <vergissberlin@gmail.com>
 ```
 
-This repository contains the presentations and sample projects for the React Native talk series. The talk series is an introduction to developing mobile apps with React Native. The talk series is designed for JavaScript developers who already have experience with JavaScript and React. The talk series is divided into 5 parts:
+This repository contains the presentations and the sample projects for the "React Native" talk series. The talk series is an introduction to the development of mobile apps with React native. The talk series is designed for JavaScript developers who already have experience with JavaScript and React. The talk series is divided into 5 parts:
 
 * * *
 
-**📚 Table of contents**
+**📚 table of contents**
 
 -   [💬 Talk: React Native](#-talk-react-native)
-    -   [📚 1. Technology Overview](#-1-technologie-überblick)
-    -   [🛠 2. Setting up the development environment](#-2-einrichtung-der-entwicklungsumgebung)
+    -   [📚 1. Technology overview](#-1-technologie-überblick)
+    -   [🛠 2. Establishment of the development environment](#-2-einrichtung-der-entwicklungsumgebung)
     -   [📱 3. React Native mit Expo](#-3-react-native-mit-expo)
     -   [🧪 4. Testing](#-4-testing)
     -   [🚀 5. Deployment](#-5-deployment)
@@ -26,27 +26,27 @@ This repository contains the presentations and sample projects for the React Nat
 
 * * *
 
-### 📚 1. Technology Overview
+### 📚 1. Technology overview
 
-This part of the talk series provides an overview of the React Native technology. It explains how React Native works and what advantages it has over other technologies. It also explains how React Native works with Expo.
+In this part of the talk series there is an overview of the technology React native. It is explained how React native works and what advantages it has compared to other technologies. It also explains how React native works with Expo.
 
-**To the talk:**[Technology Overview ↗](./Talks/01_technology.md)
+**To the talk:**[Technology overview ↗](./Talks/01_technology.md)
 
-### 🛠 2. Setting up the development environment
+### 🛠 2. Establishment of the development environment
 
-In this part of the talk series, the development environment for React Native is set up. We look at how we can develop React Native with Expo. It also explains how we can develop React Native without Expo.
+The development environment for React Native is set up in this part of the talk series. We look at how we can develop React native with Expo. It is also explained how we can develop React native without expo.
 
 ### 📱 3. React Native mit Expo
 
-This part of the talk series introduces React Native with Expo. We look at how we can develop React Native with Expo. It also explains how we can test React Native with Expo.
+In this part of the talk series, React Native is presented with Expo. We look at how we can develop React native with Expo. It is also explained how we can test React native with Expo.
 
 ### 🧪 4. Testing
 
-This part of the talk series introduces the topic of testing in React Native. We look at how we can test React Native with Jest. It also explains how we can test React Native with Detox.
+In this part of the talk series, the topic of testing in React native is presented. We look at how we can test React native with Jest. It is also explained how we can test React native with detox.
 
 ### 🚀 5. Deployment
 
-This part of the talk series introduces the topic of deployment in React Native. We're looking at how to publish React Native with Expo. It also explains how we can release React Native with Fastlane.
+In this part of the talk series, the topic of deployment in React native is presented. We look at how we can publish React native with Expo. It is also explained how we can publish React Native with Fastlane.
 
 ### 📚 Links
 
